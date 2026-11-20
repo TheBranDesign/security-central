@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" fill="none">
+  <circle cx="80" cy="80" r="74" fill="#0b1b36" stroke="#ef4444" stroke-width="3"/>
+  <circle cx="80" cy="80" r="66" fill="#081427" stroke="#1e3a5f" stroke-width="1.5"/>
+  <polygon points="80,36 108,60 80,84 52,60" stroke="#ef4444" stroke-width="2.5" fill="#1f1828"/>
+  <text x="80" y="66" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="900" fill="#ffffff" text-anchor="middle">FM</text>
+  <text x="80" y="105" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">APPROVED</text>
+  <text x="80" y="120" font-family="'Plus Jakarta Sans', sans-serif" font-size="8.5" font-weight="700" fill="#ef4444" text-anchor="middle" letter-spacing="1">COMMERCIAL FIRE SIGNAL</text>
+  <text x="80" y="132" font-family="'Plus Jakarta Sans', sans-serif" font-size="7" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="0.5">FACTORY MUTUAL STANDARDS</text>
+</svg>
